@@ -70,6 +70,7 @@ body{
     padding: 11px 16px;
     border: 1px solid var(--border-color);
     background-color: white;
+    color: var(--black-color);
     transition: border-color 0.3s;
 }
 
